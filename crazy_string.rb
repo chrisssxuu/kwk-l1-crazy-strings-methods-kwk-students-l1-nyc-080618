@@ -9,5 +9,5 @@ def crazy_strings(a,b)
   return "#{a} #{b}"
 end
 
-
+#string_one + string_two is concatenation
 #crazy_strings("Hello","Friends")
